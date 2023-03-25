@@ -1,0 +1,7 @@
+version: '3'
+services:
+  web:
+    image: us-west1-docker.pkg.dev/$PROJECT_ID/myapp-repo/myapp-image
+    ports:
+      - "3000:3000"
+
