@@ -1,5 +1,11 @@
 # MediaMarkt Cloud Engineering challenge
 
+Hackathon: https://nuwe.io/dev/competitions/mediamarkt-letsgo-hackathon/mediamarkt-cloud-engineering-challenge
+
+Author: Anton Chernysh
+Email: anton_chernysh@outlook.es
+Linkedin: https://www.linkedin.com/in/anton-chernysh/
+
 👉 **ABOUT**
 MediaMarkt manages Peta-Bytes of information, and security goes first. In order to ensure the Minimum Least Privilege internal policy we need you to execute it and deploy an application.
 
